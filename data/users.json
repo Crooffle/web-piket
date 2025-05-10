@@ -1,0 +1,58 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "$2b$10$SEBhf2o3VexerwRsOD9hmuQY/w5EH4pp0VtlAqDo6IwPxzGfe9eE6",
+    "role": "admin"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi",
+      "isDone": false,
+      "day": "Senin",
+      "hasPaid": false
+    },
+    {
+      "id": 2,
+      "name": "Ani",
+      "isDone": false,
+      "day": "Selasa",
+      "hasPaid": false
+    },
+    {
+      "id": 3,
+      "name": "Siti",
+      "isDone": true,
+      "day": "Rabu",
+      "hasPaid": false
+    },
+    {
+      "id": 4,
+      "name": "Dodi",
+      "isDone": true,
+      "day": "Kamis",
+      "hasPaid": false
+    },
+    {
+      "id": 5,
+      "name": "Rini",
+      "isDone": true,
+      "day": "Jumat",
+      "hasPaid": false
+    },
+    {
+      "id": 6,
+      "name": "Joko",
+      "isDone": true,
+      "day": "Sabtu",
+      "hasPaid": true
+    },
+    {
+      "id": 7,
+      "name": "Maya",
+      "isDone": true,
+      "day": "Minggu",
+      "hasPaid": true
+    }
+  ]
+}
